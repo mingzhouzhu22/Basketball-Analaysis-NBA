@@ -1,1 +1,1 @@
-# Basketball-Analaysis-NBA
+# Basketball-Analysis-NBA
